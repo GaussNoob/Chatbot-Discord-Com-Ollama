@@ -158,14 +158,3 @@ Este projeto é um **chatbot** para o Discord desenvolvido com **JavaScript** e 
 O código-fonte do projeto está disponível em:  
 [git@github.com:GaussNoob/Chatbot-Discord-Com-Ollama.git](git@github.com:GaussNoob/Chatbot-Discord-Com-Ollama.git)
 
----
-
-## Licença
-
-Este projeto é de código aberto e licenciado sob [MIT License](LICENSE).
-
----
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato com o desenvolvedor ou abra uma issue no repositório.
