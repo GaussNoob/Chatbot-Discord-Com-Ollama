@@ -29,7 +29,7 @@ client.once("ready", () => {
   console.log(
     `Usando modelo Ollama: ${OLLAMA_MODEL_NAME} na URL: ${OLLAMA_BASE_URL}`,
   );
-  console.log(`Prefixo do bot: "${BOT_PREFIX}"`); // Informa o prefixo usado
+  console.log(`Prefixo do bot: "${BOT_PREFIX}"`);
 });
 
 client.on("messageCreate", async (message) => {
